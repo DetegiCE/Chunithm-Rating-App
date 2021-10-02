@@ -11,7 +11,7 @@ export default class Scoretable extends React.Component {
     this.fields = songs;
     this.state = {
       tableHead: ['ID', '난이도', '곡명', '레벨', '점수'],
-      widthArr: [2, 4, 10, 3, 4],
+      widthArr: [3, 3, 10, 3, 5],
     };
   }
   render() {
