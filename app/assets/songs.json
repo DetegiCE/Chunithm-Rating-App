@@ -1,0 +1,1424 @@
+[
+  {
+    "id": 1,
+    "dif": "MASTER",
+    "title": "混沌を越えし我らが神聖なる調律主を讃えよ",
+    "level": 14.1
+  },
+  {
+    "id": 2,
+    "dif": "MASTER",
+    "title": "怒槌",
+    "level": 14
+  },
+  {
+    "id": 3,
+    "dif": "MASTER",
+    "title": "玩具狂奏曲 -終焉-",
+    "level": 14
+  },
+  {
+    "id": 4,
+    "dif": "MASTER",
+    "title": "TiamaT:F minor",
+    "level": 14
+  },
+  {
+    "id": 5,
+    "dif": "MASTER",
+    "title": "Trrricksters!!",
+    "level": 14
+  },
+  {
+    "id": 6,
+    "dif": "MASTER",
+    "title": "宿星審判",
+    "level": 14
+  },
+  {
+    "id": 7,
+    "dif": "MASTER",
+    "title": "Contrapasso -inferno-",
+    "level": 13.9
+  },
+  {
+    "id": 8,
+    "dif": "MASTER",
+    "title": "神威",
+    "level": 13.9
+  },
+  {
+    "id": 9,
+    "dif": "MASTER",
+    "title": "Finite",
+    "level": 13.9
+  },
+  {
+    "id": 10,
+    "dif": "MASTER",
+    "title": "Climax",
+    "level": 13.9
+  },
+  {
+    "id": 11,
+    "dif": "MASTER",
+    "title": "GIGA DRIVE",
+    "level": 13.9
+  },
+  {
+    "id": 12,
+    "dif": "MASTER",
+    "title": "《破滅》 ～ Rhapsody for The End",
+    "level": 13.9
+  },
+  {
+    "id": 13,
+    "dif": "MASTER",
+    "title": "Blackmagik Blazing",
+    "level": 13.9
+  },
+  {
+    "id": 14,
+    "dif": "MASTER",
+    "title": "Viyella's Tears",
+    "level": 13.9
+  },
+  {
+    "id": 15,
+    "dif": "MASTER",
+    "title": "エンドマークに希望と涙を添えて",
+    "level": 13.8
+  },
+  {
+    "id": 16,
+    "dif": "MASTER",
+    "title": "宛城、炎上！！",
+    "level": 13.8
+  },
+  {
+    "id": 17,
+    "dif": "MASTER",
+    "title": "FREEDOM DiVE",
+    "level": 13.8
+  },
+  {
+    "id": 18,
+    "dif": "MASTER",
+    "title": "Garakuta Doll Play",
+    "level": 13.8
+  },
+  {
+    "id": 19,
+    "dif": "MASTER",
+    "title": "Caliburne ～Story of the Legendary sword～",
+    "level": 13.8
+  },
+  {
+    "id": 20,
+    "dif": "MASTER",
+    "title": "AMAZING MIGHTYYYY!!!!",
+    "level": 13.8
+  },
+  {
+    "id": 21,
+    "dif": "MASTER",
+    "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
+    "level": 13.8
+  },
+  {
+    "id": 22,
+    "dif": "MASTER",
+    "title": "Excalibur ～Revived resolution～",
+    "level": 13.8
+  },
+  {
+    "id": 23,
+    "dif": "MASTER",
+    "title": "SON OF SUN",
+    "level": 13.8
+  },
+  {
+    "id": 24,
+    "dif": "MASTER",
+    "title": "Sound Chimera",
+    "level": 13.8
+  },
+  {
+    "id": 25,
+    "dif": "MASTER",
+    "title": "AttraqtiA",
+    "level": 13.8
+  },
+  {
+    "id": 26,
+    "dif": "MASTER",
+    "title": "VERTeX",
+    "level": 13.7
+  },
+  {
+    "id": 27,
+    "dif": "MASTER",
+    "title": "Calamity Fortune",
+    "level": 13.7
+  },
+  {
+    "id": 28,
+    "dif": "MASTER",
+    "title": "ouroboros -twin stroke of the end-",
+    "level": 13.7
+  },
+  {
+    "id": 29,
+    "dif": "MASTER",
+    "title": "スピカの天秤",
+    "level": 13.7
+  },
+  {
+    "id": 30,
+    "dif": "MASTER",
+    "title": "larva",
+    "level": 13.7
+  },
+  {
+    "id": 31,
+    "dif": "MASTER",
+    "title": "Fracture Ray",
+    "level": 13.7
+  },
+  {
+    "id": 32,
+    "dif": "MASTER",
+    "title": "Grievous Lady",
+    "level": 13.7
+  },
+  {
+    "id": 33,
+    "dif": "MASTER",
+    "title": "Walzer für das Nichts",
+    "level": 13.7
+  },
+  {
+    "id": 34,
+    "dif": "MASTER",
+    "title": "Alea jacta est!",
+    "level": 13.7
+  },
+  {
+    "id": 35,
+    "dif": "MASTER",
+    "title": "GOLDEN RULE",
+    "level": 13.6
+  },
+  {
+    "id": 36,
+    "dif": "MASTER",
+    "title": "L'épisode",
+    "level": 13.6
+  },
+  {
+    "id": 37,
+    "dif": "MASTER",
+    "title": "Imperishable Night 2006 (2016 Refine)",
+    "level": 13.6
+  },
+  {
+    "id": 38,
+    "dif": "MASTER",
+    "title": "極圏",
+    "level": 13.6
+  },
+  {
+    "id": 39,
+    "dif": "MASTER",
+    "title": "Scarlet Lance",
+    "level": 13.6
+  },
+  {
+    "id": 40,
+    "dif": "MASTER",
+    "title": "GERBERA",
+    "level": 13.6
+  },
+  {
+    "id": 41,
+    "dif": "MASTER",
+    "title": "CITRUS MONSTER",
+    "level": 13.6
+  },
+  {
+    "id": 42,
+    "dif": "MASTER",
+    "title": "Genesis",
+    "level": 13.5
+  },
+  {
+    "id": 43,
+    "dif": "MASTER",
+    "title": "luna blu",
+    "level": 13.5
+  },
+  {
+    "id": 44,
+    "dif": "MASTER",
+    "title": "閃鋼のブリューナク",
+    "level": 13.5
+  },
+  {
+    "id": 45,
+    "dif": "MASTER",
+    "title": "Aragami",
+    "level": 13.5
+  },
+  {
+    "id": 46,
+    "dif": "MASTER",
+    "title": "AVALON",
+    "level": 13.5
+  },
+  {
+    "id": 47,
+    "dif": "MASTER",
+    "title": "Name of oath",
+    "level": 13.5
+  },
+  {
+    "id": 48,
+    "dif": "MASTER",
+    "title": "Like the Wind [Reborn]",
+    "level": 13.5
+  },
+  {
+    "id": 49,
+    "dif": "MASTER",
+    "title": "セイクリッド　ルイン",
+    "level": 13.5
+  },
+  {
+    "id": 50,
+    "dif": "MASTER",
+    "title": "Twilight",
+    "level": 13.5
+  },
+  {
+    "id": 51,
+    "dif": "MASTER",
+    "title": "volcanic",
+    "level": 13.5
+  },
+  {
+    "id": 52,
+    "dif": "MASTER",
+    "title": "Destr0yer",
+    "level": 13.5
+  },
+  {
+    "id": 53,
+    "dif": "MASTER",
+    "title": "せかいせいふく！ゆりあちゃん！",
+    "level": 13.5
+  },
+  {
+    "id": 54,
+    "dif": "MASTER",
+    "title": "Cyaegha",
+    "level": 13.5
+  },
+  {
+    "id": 55,
+    "dif": "MASTER",
+    "title": "初音ミクの消失",
+    "level": 13.4
+  },
+  {
+    "id": 56,
+    "dif": "MASTER",
+    "title": "Gate of Fate",
+    "level": 13.4
+  },
+  {
+    "id": 57,
+    "dif": "MASTER",
+    "title": "The wheel to the right",
+    "level": 13.4
+  },
+  {
+    "id": 58,
+    "dif": "MASTER",
+    "title": "ラクガキスト",
+    "level": 13.4
+  },
+  {
+    "id": 59,
+    "dif": "MASTER",
+    "title": "Supersonic Generation",
+    "level": 13.4
+  },
+  {
+    "id": 60,
+    "dif": "MASTER",
+    "title": "オススメ☆♂♀☆でぃすとぴあ",
+    "level": 13.4
+  },
+  {
+    "id": 61,
+    "dif": "MASTER",
+    "title": "Super Lovely (Heavenly Remix)",
+    "level": 13.4
+  },
+  {
+    "id": 62,
+    "dif": "MASTER",
+    "title": "きゅうりバーにダイブ",
+    "level": 13.4
+  },
+  {
+    "id": 63,
+    "dif": "MASTER",
+    "title": "Taiko Drum Monster",
+    "level": 13.4
+  },
+  {
+    "id": 64,
+    "dif": "MASTER",
+    "title": "最終鬼畜妹フランドール・S",
+    "level": 13.4
+  },
+  {
+    "id": 65,
+    "dif": "MASTER",
+    "title": "《運命》 ～ Ray of Hope",
+    "level": 13.4
+  },
+  {
+    "id": 66,
+    "dif": "MASTER",
+    "title": "conflict",
+    "level": 13.3
+  },
+  {
+    "id": 67,
+    "dif": "MASTER",
+    "title": "Halcyon",
+    "level": 13.3
+  },
+  {
+    "id": 68,
+    "dif": "MASTER",
+    "title": "Strahv",
+    "level": 13.3
+  },
+  {
+    "id": 69,
+    "dif": "MASTER",
+    "title": "GOODTEK",
+    "level": 13.3
+  },
+  {
+    "id": 70,
+    "dif": "MASTER",
+    "title": "Hyper Active",
+    "level": 13.3
+  },
+  {
+    "id": 71,
+    "dif": "MASTER",
+    "title": "CHOCOLATE BOMB!!!!",
+    "level": 13.3
+  },
+  {
+    "id": 72,
+    "dif": "MASTER",
+    "title": "Brain Power",
+    "level": 13.3
+  },
+  {
+    "id": 73,
+    "dif": "MASTER",
+    "title": "conflict(斉唱)",
+    "level": 13.3
+  },
+  {
+    "id": 74,
+    "dif": "MASTER",
+    "title": "DRAGONLADY",
+    "level": 13.2
+  },
+  {
+    "id": 75,
+    "dif": "MASTER",
+    "title": "Cyberozar",
+    "level": 13.2
+  },
+  {
+    "id": 76,
+    "dif": "MASTER",
+    "title": "分からない",
+    "level": 13.2
+  },
+  {
+    "id": 77,
+    "dif": "MASTER",
+    "title": "害虫",
+    "level": 13.2
+  },
+  {
+    "id": 78,
+    "dif": "MASTER",
+    "title": "サドマミホリック",
+    "level": 13.2
+  },
+  {
+    "id": 79,
+    "dif": "MASTER",
+    "title": "BlythE",
+    "level": 13.2
+  },
+  {
+    "id": 80,
+    "dif": "MASTER",
+    "title": "Tango Rouge",
+    "level": 13.1
+  },
+  {
+    "id": 81,
+    "dif": "MASTER",
+    "title": "We Gonna Journey",
+    "level": 13.1
+  },
+  {
+    "id": 82,
+    "dif": "MASTER",
+    "title": "幻想のサテライト",
+    "level": 13.1
+  },
+  {
+    "id": 83,
+    "dif": "MASTER",
+    "title": "Oshama Scramble!",
+    "level": 13.1
+  },
+  {
+    "id": 84,
+    "dif": "MASTER",
+    "title": "おまかせ！！トラブルメイ娘☆とれびちゃん",
+    "level": 13.1
+  },
+  {
+    "id": 85,
+    "dif": "MASTER",
+    "title": "まごころのカスクルゥト",
+    "level": 13.1
+  },
+  {
+    "id": 86,
+    "dif": "MASTER",
+    "title": "Arcahv",
+    "level": 13.1
+  },
+  {
+    "id": 87,
+    "dif": "MASTER",
+    "title": "最終鬼畜妹・一部声",
+    "level": 13
+  },
+  {
+    "id": 88,
+    "dif": "MASTER",
+    "title": "Gustav Battle",
+    "level": 13
+  },
+  {
+    "id": 89,
+    "dif": "MASTER",
+    "title": "ギガンティックO.T.N",
+    "level": 13
+  },
+  {
+    "id": 90,
+    "dif": "MASTER",
+    "title": "ぼくらの16bit戦争",
+    "level": 13
+  },
+  {
+    "id": 91,
+    "dif": "MASTER",
+    "title": "カミサマネジマキ",
+    "level": 13
+  },
+  {
+    "id": 92,
+    "dif": "MASTER",
+    "title": "DataErr0r",
+    "level": 13
+  },
+  {
+    "id": 93,
+    "dif": "MASTER",
+    "title": "立川浄穢捕物帳",
+    "level": 13
+  },
+  {
+    "id": 94,
+    "dif": "MASTER",
+    "title": "Pastel Party",
+    "level": 12.9
+  },
+  {
+    "id": 95,
+    "dif": "MASTER",
+    "title": "サンシャインサマー☆夏期講習",
+    "level": 12.9
+  },
+  {
+    "id": 96,
+    "dif": "MASTER",
+    "title": "《逃避》 ～ The Deserter",
+    "level": 12.9
+  },
+  {
+    "id": 97,
+    "dif": "MASTER",
+    "title": "taboo tears you up",
+    "level": 12.8
+  },
+  {
+    "id": 98,
+    "dif": "MASTER",
+    "title": "My First Phone",
+    "level": 12.8
+  },
+  {
+    "id": 99,
+    "dif": "MASTER",
+    "title": "今ぞ♡崇め奉れ☆オマエらよ！！～姫の秘メタル渇望～",
+    "level": 12.8
+  },
+  {
+    "id": 100,
+    "dif": "MASTER",
+    "title": "MUSIC PЯAYER",
+    "level": 12.8
+  },
+  {
+    "id": 101,
+    "dif": "MASTER",
+    "title": "Bang Babang Bang!!!",
+    "level": 12.8
+  },
+  {
+    "id": 102,
+    "dif": "MASTER",
+    "title": "セツナトリップ",
+    "level": 12.7
+  },
+  {
+    "id": 103,
+    "dif": "MASTER",
+    "title": "四次元跳躍機関",
+    "level": 12.7
+  },
+  {
+    "id": 104,
+    "dif": "MASTER",
+    "title": "少女幻葬戦慄曲　～　Necro Fantasia",
+    "level": 12.7
+  },
+  {
+    "id": 105,
+    "dif": "MASTER",
+    "title": "Altale",
+    "level": 12.7
+  },
+  {
+    "id": 106,
+    "dif": "MASTER",
+    "title": "Alma",
+    "level": 12.7
+  },
+  {
+    "id": 107,
+    "dif": "MASTER",
+    "title": "脳漿炸裂ガール",
+    "level": 12.7
+  },
+  {
+    "id": 108,
+    "dif": "MASTER",
+    "title": "stella=steLLa",
+    "level": 12.7
+  },
+  {
+    "id": 109,
+    "dif": "MASTER",
+    "title": "SNIPE WHOLE",
+    "level": 12.7
+  },
+  {
+    "id": 110,
+    "dif": "MASTER",
+    "title": "ゲシュタルト！テスト期間！！",
+    "level": 12.7
+  },
+  {
+    "id": 111,
+    "dif": "MASTER",
+    "title": "JULIAN",
+    "level": 12.7
+  },
+  {
+    "id": 112,
+    "dif": "MASTER",
+    "title": "最愛テトラグラマトン",
+    "level": 12.7
+  },
+  {
+    "id": 113,
+    "dif": "MASTER",
+    "title": "ゴーストルール",
+    "level": 12.7
+  },
+  {
+    "id": 114,
+    "dif": "MASTER",
+    "title": "Floating Darkness",
+    "level": 12.7
+  },
+  {
+    "id": 115,
+    "dif": "MASTER",
+    "title": "Black Lair",
+    "level": 12.7
+  },
+  {
+    "id": 116,
+    "dif": "MASTER",
+    "title": "Axium Crisis",
+    "level": 12.7
+  },
+  {
+    "id": 117,
+    "dif": "MASTER",
+    "title": "カゲロウデイズ",
+    "level": 12.7
+  },
+  {
+    "id": 118,
+    "dif": "MASTER",
+    "title": "《混乱》 ～ Muspell",
+    "level": 12.7
+  },
+  {
+    "id": 119,
+    "dif": "MASTER",
+    "title": "Memory of Beach",
+    "level": 12.7
+  },
+  {
+    "id": 120,
+    "dif": "MASTER",
+    "title": "Auxesia",
+    "level": 12.7
+  },
+  {
+    "id": 121,
+    "dif": "MASTER",
+    "title": "グリーンライツ・セレナーデ",
+    "level": 12.7
+  },
+  {
+    "id": 122,
+    "dif": "MASTER",
+    "title": "命に嫌われている",
+    "level": 12.7
+  },
+  {
+    "id": 123,
+    "dif": "MASTER",
+    "title": "L9",
+    "level": 12.6
+  },
+  {
+    "id": 124,
+    "dif": "MASTER",
+    "title": "Session High⤴",
+    "level": 12.6
+  },
+  {
+    "id": 125,
+    "dif": "MASTER",
+    "title": "高気圧ねこロック",
+    "level": 12.6
+  },
+  {
+    "id": 126,
+    "dif": "MASTER",
+    "title": "NYAN-NYA, More! ラブシャイン、Chu♥",
+    "level": 12.6
+  },
+  {
+    "id": 127,
+    "dif": "MASTER",
+    "title": "アンノウン・マザーグース",
+    "level": 12.6
+  },
+  {
+    "id": 128,
+    "dif": "MASTER",
+    "title": "チルノおかんのさいきょう☆バイブスごはん",
+    "level": 12.6
+  },
+  {
+    "id": 129,
+    "dif": "MASTER",
+    "title": "2DVenture",
+    "level": 12.6
+  },
+  {
+    "id": 130,
+    "dif": "MASTER",
+    "title": "《最愛》 ～ Curse",
+    "level": 12.6
+  },
+  {
+    "id": 131,
+    "dif": "MASTER",
+    "title": "タイガーランペイジ",
+    "level": 12.5
+  },
+  {
+    "id": 132,
+    "dif": "MASTER",
+    "title": "六兆年と一夜物語",
+    "level": 12.5
+  },
+  {
+    "id": 133,
+    "dif": "MASTER",
+    "title": "名も無い鳥",
+    "level": 12.5
+  },
+  {
+    "id": 134,
+    "dif": "MASTER",
+    "title": "Memories of Sun and Moon",
+    "level": 12.5
+  },
+  {
+    "id": 135,
+    "dif": "MASTER",
+    "title": "とーきょー全域★アキハバラ？",
+    "level": 12.5
+  },
+  {
+    "id": 136,
+    "dif": "MASTER",
+    "title": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+    "level": 12.5
+  },
+  {
+    "id": 137,
+    "dif": "MASTER",
+    "title": "Crazy ∞ nighT",
+    "level": 12.5
+  },
+  {
+    "id": 138,
+    "dif": "MASTER",
+    "title": "Sakura Fubuki",
+    "level": 12.5
+  },
+  {
+    "id": 139,
+    "dif": "MASTER",
+    "title": "Still",
+    "level": 12.5
+  },
+  {
+    "id": 140,
+    "dif": "MASTER",
+    "title": "儚きもの人間",
+    "level": 12.5
+  },
+  {
+    "id": 141,
+    "dif": "MASTER",
+    "title": "L'épilogue",
+    "level": 12.5
+  },
+  {
+    "id": 142,
+    "dif": "MASTER",
+    "title": "D✪N’T ST✪P R✪CKIN’ ～[✪_✪] MIX～",
+    "level": 12.5
+  },
+  {
+    "id": 143,
+    "dif": "MASTER",
+    "title": "ヒビカセ",
+    "level": 12.5
+  },
+  {
+    "id": 144,
+    "dif": "MASTER",
+    "title": "ゴーゴー幽霊船",
+    "level": 12.5
+  },
+  {
+    "id": 145,
+    "dif": "MASTER",
+    "title": "お嫁にしなさいっ！",
+    "level": 12.5
+  },
+  {
+    "id": 146,
+    "dif": "MASTER",
+    "title": "ブレス・ユア・ブレス",
+    "level": 12.5
+  },
+  {
+    "id": 147,
+    "dif": "MASTER",
+    "title": "フィクサー",
+    "level": 12.5
+  },
+  {
+    "id": 148,
+    "dif": "MASTER",
+    "title": "STAR",
+    "level": 12.4
+  },
+  {
+    "id": 149,
+    "dif": "MASTER",
+    "title": "Infantoon Fantasy",
+    "level": 12.4
+  },
+  {
+    "id": 150,
+    "dif": "MASTER",
+    "title": "ロストワンの号哭",
+    "level": 12.4
+  },
+  {
+    "id": 151,
+    "dif": "MASTER",
+    "title": "アスノヨゾラ哨戒班",
+    "level": 12.4
+  },
+  {
+    "id": 152,
+    "dif": "MASTER",
+    "title": "D.E.A.D.L.Y.",
+    "level": 12.4
+  },
+  {
+    "id": 153,
+    "dif": "MASTER",
+    "title": "TRUST",
+    "level": 12.4
+  },
+  {
+    "id": 154,
+    "dif": "MASTER",
+    "title": "Kronos",
+    "level": 12.4
+  },
+  {
+    "id": 155,
+    "dif": "MASTER",
+    "title": "相思創愛",
+    "level": 12.4
+  },
+  {
+    "id": 156,
+    "dif": "MASTER",
+    "title": "Through The Tower",
+    "level": 12.4
+  },
+  {
+    "id": 157,
+    "dif": "MASTER",
+    "title": "はちみつアドベンチャー",
+    "level": 12.4
+  },
+  {
+    "id": 158,
+    "dif": "MASTER",
+    "title": "WARNING×WARNING×WARNING",
+    "level": 12.4
+  },
+  {
+    "id": 159,
+    "dif": "MASTER",
+    "title": "Scream out! -CHUNITHM Tuning-",
+    "level": 12.4
+  },
+  {
+    "id": 160,
+    "dif": "MASTER",
+    "title": "咲キ誇レ常世ノ華",
+    "level": 12.4
+  },
+  {
+    "id": 161,
+    "dif": "MASTER",
+    "title": "愛されなくても君がいる",
+    "level": 12.4
+  },
+  {
+    "id": 162,
+    "dif": "MASTER",
+    "title": "一触即発☆禅ガール",
+    "level": 12.3
+  },
+  {
+    "id": 163,
+    "dif": "MASTER",
+    "title": "Teriqma",
+    "level": 12.3
+  },
+  {
+    "id": 164,
+    "dif": "MASTER",
+    "title": "明るい未来",
+    "level": 12.3
+  },
+  {
+    "id": 165,
+    "dif": "MASTER",
+    "title": "蒼空に舞え、墨染の桜",
+    "level": 12.3
+  },
+  {
+    "id": 166,
+    "dif": "MASTER",
+    "title": "腐れ外道とチョコレゐト",
+    "level": 12.3
+  },
+  {
+    "id": 167,
+    "dif": "MASTER",
+    "title": "猫祭り",
+    "level": 12.3
+  },
+  {
+    "id": 168,
+    "dif": "MASTER",
+    "title": "空威張りビヘイビア",
+    "level": 12.3
+  },
+  {
+    "id": 169,
+    "dif": "MASTER",
+    "title": "SPICY SWINGY STYLE",
+    "level": 12.3
+  },
+  {
+    "id": 170,
+    "dif": "MASTER",
+    "title": "ラブリー☆えんじぇる!!",
+    "level": 12.3
+  },
+  {
+    "id": 171,
+    "dif": "MASTER",
+    "title": "砂の惑星 feat. HATSUNE MIKU",
+    "level": 12.3
+  },
+  {
+    "id": 172,
+    "dif": "MASTER",
+    "title": "Grip & Break down !!",
+    "level": 12.3
+  },
+  {
+    "id": 173,
+    "dif": "MASTER",
+    "title": "夢花火",
+    "level": 12.3
+  },
+  {
+    "id": 174,
+    "dif": "MASTER",
+    "title": "ワールズエンド・ダンスホール",
+    "level": 12.3
+  },
+  {
+    "id": 175,
+    "dif": "MASTER",
+    "title": "進捗どうですか？",
+    "level": 12.3
+  },
+  {
+    "id": 176,
+    "dif": "MASTER",
+    "title": "Bad Apple!! feat.nomico (Nhato Remix)",
+    "level": 12.3
+  },
+  {
+    "id": 177,
+    "dif": "MASTER",
+    "title": "God knows...",
+    "level": 12.3
+  },
+  {
+    "id": 178,
+    "dif": "MASTER",
+    "title": "The ether",
+    "level": 12.2
+  },
+  {
+    "id": 179,
+    "dif": "MASTER",
+    "title": "イカサマライフゲイム",
+    "level": 12.2
+  },
+  {
+    "id": 180,
+    "dif": "MASTER",
+    "title": "緋色のDance",
+    "level": 12.2
+  },
+  {
+    "id": 181,
+    "dif": "MASTER",
+    "title": "天樂",
+    "level": 12.2
+  },
+  {
+    "id": 182,
+    "dif": "MASTER",
+    "title": "シュガーソングとビターステップ",
+    "level": 12.2
+  },
+  {
+    "id": 183,
+    "dif": "MASTER",
+    "title": "My Dearest Song",
+    "level": 12.2
+  },
+  {
+    "id": 184,
+    "dif": "MASTER",
+    "title": "白い雪のプリンセスは",
+    "level": 12.2
+  },
+  {
+    "id": 185,
+    "dif": "MASTER",
+    "title": "猛進ソリストライフ！",
+    "level": 12.2
+  },
+  {
+    "id": 186,
+    "dif": "MASTER",
+    "title": "Bird Sprite",
+    "level": 12.2
+  },
+  {
+    "id": 187,
+    "dif": "MASTER",
+    "title": "悪戯",
+    "level": 12.2
+  },
+  {
+    "id": 188,
+    "dif": "MASTER",
+    "title": "物凄い勢いでけーねが物凄いうた",
+    "level": 12.2
+  },
+  {
+    "id": 189,
+    "dif": "MASTER",
+    "title": "StargazeR",
+    "level": 12.2
+  },
+  {
+    "id": 190,
+    "dif": "MASTER",
+    "title": "Spring of Dreams",
+    "level": 12.2
+  },
+  {
+    "id": 191,
+    "dif": "MASTER",
+    "title": "《理想》 ～ Cloudland",
+    "level": 12.2
+  },
+  {
+    "id": 192,
+    "dif": "MASTER",
+    "title": "LOVE EAST",
+    "level": 12.2
+  },
+  {
+    "id": 193,
+    "dif": "MASTER",
+    "title": "砂漠のハンティングガール♡",
+    "level": 12.1
+  },
+  {
+    "id": 194,
+    "dif": "MASTER",
+    "title": "ハート・ビート",
+    "level": 12.1
+  },
+  {
+    "id": 195,
+    "dif": "MASTER",
+    "title": "無敵We are one!!",
+    "level": 12.1
+  },
+  {
+    "id": 196,
+    "dif": "MASTER",
+    "title": "ウミユリ海底譚",
+    "level": 12.1
+  },
+  {
+    "id": 197,
+    "dif": "MASTER",
+    "title": "月に叢雲華に風",
+    "level": 12.1
+  },
+  {
+    "id": 198,
+    "dif": "MASTER",
+    "title": "ドキドキDREAM!!!",
+    "level": 12.1
+  },
+  {
+    "id": 199,
+    "dif": "MASTER",
+    "title": "ＧＯ！ＧＯ！ラブリズム♥ ～あーりん書類審査通過記念Ver.～",
+    "level": 12.1
+  },
+  {
+    "id": 200,
+    "dif": "MASTER",
+    "title": "ようこそジャパリパークへ",
+    "level": 12.1
+  },
+  {
+    "id": 201,
+    "dif": "MASTER",
+    "title": "放課後ストライド",
+    "level": 12.1
+  },
+  {
+    "id": 202,
+    "dif": "MASTER",
+    "title": "おねがいダーリン",
+    "level": 12.1
+  },
+  {
+    "id": 203,
+    "dif": "MASTER",
+    "title": "言ノ葉カルマ",
+    "level": 12
+  },
+  {
+    "id": 204,
+    "dif": "MASTER",
+    "title": "Witches night",
+    "level": 12
+  },
+  {
+    "id": 205,
+    "dif": "MASTER",
+    "title": "Barbed Eye",
+    "level": 12
+  },
+  {
+    "id": 206,
+    "dif": "MASTER",
+    "title": "ロキ",
+    "level": 12
+  },
+  {
+    "id": 207,
+    "dif": "EXPERT",
+    "title": "混沌を越えし我らが神聖なる調律主を讃えよ",
+    "level": 13.3
+  },
+  {
+    "id": 208,
+    "dif": "EXPERT",
+    "title": "Viyella's Tears",
+    "level": 12.9
+  },
+  {
+    "id": 209,
+    "dif": "EXPERT",
+    "title": "怒槌",
+    "level": 12.8
+  },
+  {
+    "id": 210,
+    "dif": "EXPERT",
+    "title": "宿星審判",
+    "level": 12.8
+  },
+  {
+    "id": 211,
+    "dif": "EXPERT",
+    "title": "玩具狂奏曲 -終焉-",
+    "level": 12.7
+  },
+  {
+    "id": 212,
+    "dif": "EXPERT",
+    "title": "TiamaT:F minor",
+    "level": 12.7
+  },
+  {
+    "id": 213,
+    "dif": "EXPERT",
+    "title": "神威",
+    "level": 12.7
+  },
+  {
+    "id": 214,
+    "dif": "EXPERT",
+    "title": "Climax",
+    "level": 12.7
+  },
+  {
+    "id": 215,
+    "dif": "EXPERT",
+    "title": "GIGA DRIVE",
+    "level": 12.7
+  },
+  {
+    "id": 216,
+    "dif": "EXPERT",
+    "title": "Trrricksters!!",
+    "level": 12.7
+  },
+  {
+    "id": 217,
+    "dif": "EXPERT",
+    "title": "SON OF SUN",
+    "level": 12.7
+  },
+  {
+    "id": 218,
+    "dif": "EXPERT",
+    "title": "Blackmagik Blazing",
+    "level": 12.5
+  },
+  {
+    "id": 219,
+    "dif": "EXPERT",
+    "title": "AttraqtiA",
+    "level": 12.5
+  },
+  {
+    "id": 220,
+    "dif": "EXPERT",
+    "title": "luna blu",
+    "level": 12.4
+  },
+  {
+    "id": 221,
+    "dif": "EXPERT",
+    "title": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
+    "level": 12.4
+  },
+  {
+    "id": 222,
+    "dif": "EXPERT",
+    "title": "《破滅》 ～ Rhapsody for The End",
+    "level": 12.4
+  },
+  {
+    "id": 223,
+    "dif": "EXPERT",
+    "title": "Alea jacta est!",
+    "level": 12.4
+  },
+  {
+    "id": 224,
+    "dif": "EXPERT",
+    "title": "Garakuta Doll Play",
+    "level": 12.3
+  },
+  {
+    "id": 225,
+    "dif": "EXPERT",
+    "title": "Excalibur ～Revived resolution～",
+    "level": 12.3
+  },
+  {
+    "id": 226,
+    "dif": "EXPERT",
+    "title": "宛城、炎上！！",
+    "level": 12.2
+  },
+  {
+    "id": 227,
+    "dif": "EXPERT",
+    "title": "Gustav Battle",
+    "level": 12.2
+  },
+  {
+    "id": 228,
+    "dif": "EXPERT",
+    "title": "Caliburne ～Story of the Legendary sword～",
+    "level": 12.2
+  },
+  {
+    "id": 229,
+    "dif": "EXPERT",
+    "title": "Grievous Lady",
+    "level": 12.2
+  },
+  {
+    "id": 230,
+    "dif": "EXPERT",
+    "title": "L'épisode",
+    "level": 12.1
+  },
+  {
+    "id": 231,
+    "dif": "EXPERT",
+    "title": "Contrapasso -inferno-",
+    "level": 12.1
+  },
+  {
+    "id": 232,
+    "dif": "EXPERT",
+    "title": "スピカの天秤",
+    "level": 12.1
+  },
+  {
+    "id": 233,
+    "dif": "EXPERT",
+    "title": "Walzer für das Nichts",
+    "level": 12.1
+  },
+  {
+    "id": 234,
+    "dif": "EXPERT",
+    "title": "AMAZING MIGHTYYYY!!!!",
+    "level": 12
+  },
+  {
+    "id": 235,
+    "dif": "EXPERT",
+    "title": "volcanic",
+    "level": 12
+  },
+  {
+    "id": 236,
+    "dif": "EXPERT",
+    "title": "CITRUS MONSTER",
+    "level": 12
+  },
+  {
+    "id": 237,
+    "dif": "EXPERT",
+    "title": "Fracture Ray",
+    "level": 12
+  }
+]
