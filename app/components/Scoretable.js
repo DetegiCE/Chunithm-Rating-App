@@ -1,6 +1,7 @@
 import React from 'react';
 import {View, Button, StyleSheet, ScrollView} from 'react-native';
 import {Table, Row} from 'react-native-table-component';
+import Inputscore from './Inputscore';
 
 import songs from '../assets/songs.json';
 
@@ -23,10 +24,9 @@ export default class Scoretable extends React.Component {
       rowData.push(this.fields[i].dif);
       rowData.push(this.fields[i].title);
       rowData.push(this.fields[i].level);
-      rowData.push('');
+      rowData.push(<Inputscore songId={this.fields[i].id} />);
       tableData.push(rowData);
     }
-    console.log(tableData);
     return (
       <View style={styles.container}>
         <Button onPress={() => this.goStatsScreen()} title="레이팅 통계 확인" />
@@ -81,5 +81,11 @@ const styles = StyleSheet.create({
     color: '#000',
     textAlign: 'center',
     padding: 5,
+  },
+  dialogContainer: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
 });
